@@ -45,3 +45,11 @@ zig version
 Si `Zig` se ha instalado correctamente, deberías ver la versión del compilador de `Zig` que has instalado.
 
 ¡Listo! Ahora ya tienes `Zig` instalado en tu computadora y puedes empezar a escribir programas en `Zig`.
+
+## Ejecutar el archivo de ejemplo
+
+Para ejecutar el archivo de ejemplo que hemos creado en el tutorial anterior, puedes abrir una terminal y ejecutar el siguiente comando:
+
+```bash
+zig run main.zig
+```
